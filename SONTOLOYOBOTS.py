@@ -9,9 +9,11 @@ from datetime import datetime
 from bs4 import BeautifulSoup
 from googletrans import Translator
 import youtube_dl
-#TEGUH S- BOTS LINE
+# INI SC CUKUP MASUKIN EMAIL & PASWOD.
+#SILAHKAN KEPOINN AJA,,,HEHHEE
+#SALAM SANTUN 
 #=============
-cl = LineClient("stya535@gmail.com","putriku75")
+cl = LineClient("Email","paswod")
 cl.log("Auth Token : " + str(cl.authToken))
 channel = LineChannel(cl)
 cl.log("Channel Access Token : " + str(channel.channelAccessToken))
@@ -20,7 +22,7 @@ lineSettings = cl.getSettings()
 mid = cl.getProfile().mid
 responsename1 = cl.getProfile().displayName
 
-ki = LineClient("citocitolani@yahoo.com","putriku75")
+ki = LineClient("Email","paswod")
 ki.log("Auth Token : " + str(ki.authToken))
 channel1 = LineChannel(ki)
 ki.log("Channel Access Token : " + str(channel1.channelAccessToken))
@@ -29,7 +31,7 @@ lineSettings = ki.getSettings()
 Amid = ki.getProfile().mid
 responsename2 = ki.getProfile().displayName
 
-kk = LineClient("manispipit@yahoo.com","putriku75")
+kk = LineClient("Email","paswod")
 kk.log("Auth Token : " + str(kk.authToken))
 channel2 = LineChannel(kk)
 kk.log("Channel Access Token : " + str(channel2.channelAccessToken))
@@ -38,7 +40,7 @@ lineSettings = kk.getSettings()
 Bmid = ki.getProfile().mid
 responsename3 = ki.getProfile().displayName
 
-kc = LineClient("puputmulani@yahoo.com","putriku75")
+kc = LineClient("Email","paswod")
 kc.log("Auth Token : " + str(kc.authToken))
 channel3 = LineChannel(kc)
 kc.log("Channel Access Token : " + str(channel3.channelAccessToken))
@@ -47,7 +49,7 @@ lineSettings = kc.getSettings()
 Cmid = kc.getProfile().mid
 responsename4 = kc.getProfile().displayName
 
-km = LineClient("bledekngampar@yahoo.com","putriku75")
+km = LineClient("Email","paswod")
 km.log("Auth Token : " + str(km.authToken))
 channel4 = LineChannel(km)
 km.log("Channel Access Token : " + str(channel4.channelAccessToken))
@@ -56,7 +58,7 @@ lineSettings = km.getSettings()
 Dmid = km.getProfile().mid
 responsename5 = km.getProfile().displayName
 
-kb = LineClient("gludugngampar@yahoo.com","putriku75")
+kb = LineClient("email","paswod")
 kb.log("Auth Token : " + str(kb.authToken))
 channel5 = LineChannel(kb)
 kb.log("Channel Access Token : " + str(channel5.channelAccessToken))
@@ -65,7 +67,7 @@ lineSettings = kb.getSettings()
 Emid = kb.getProfile().mid
 responsename6 = kb.getProfile().displayName
 
-kn = LineClient("dewapetir938@yahoo.com","putriku75")
+kn = LineClient("email","paswod")
 kn.log("Auth Token : " + str(kn.authToken))
 channel6 = LineChannel(kn)
 kn.log("Channel Access Token : " + str(channel6.channelAccessToken))
@@ -74,7 +76,7 @@ lineSettings = kn.getSettings()
 Fmid = kb.getProfile().mid
 responsename7 = kn.getProfile().displayName
 
-ko = LineClient("dewikembang38@yahoo.com","putriku75")
+ko = LineClient("email","paswod")
 ko.log("Auth Token : " + str(ko.authToken))
 channel7 = LineChannel(ko)
 ko.log("Channel Access Token : " + str(channel7.channelAccessToken))
@@ -83,7 +85,7 @@ lineSettings = ko.getSettings()
 Gmid = ko.getProfile().mid
 responsename8 = kb.getProfile().displayName
 
-kw = LineClient("agajanuar@yahoo.com","putriku75")
+kw = LineClient("email","paswod")
 kw.log("Auth Token : " + str(kw.authToken))
 channel8 = LineChannel(kw)
 kw.log("Channel Access Token : " + str(channel8.channelAccessToken))
@@ -92,7 +94,7 @@ lineSettings = kw.getSettings()
 Hmid = kw.getProfile().mid
 responsename9 = kw.getProfile().displayName
 
-ke = LineClient("teguhsumarno152@yahoo.com","putriku75")
+ke = LineClient("Email","paswod")
 ke.log("Auth Token : " + str(ke.authToken))
 channel9 = LineChannel(ke)
 ke.log("Channel Access Token : " + str(channel9.channelAccessToken))
@@ -101,7 +103,7 @@ lineSettings = ke.getSettings()
 Imid = ke.getProfile().mid
 responsename10 = ke.getProfile().displayName
 
-ky = LineClient("kasems26@yahoo.com","putriku75")
+ky = LineClient("email","paswod")
 ky.log("Auth Token : " + str(ky.authToken))
 channel10 = LineChannel(ky)
 ky.log("Channel Access Token : " + str(channel10.channelAccessToken))
@@ -110,7 +112,7 @@ lineSettings = ky.getSettings()
 Jmid = ky.getProfile().mid
 responsename11 = ky.getProfile().displayName
 
-sw = LineClient("manjamanis77@yahoo.com","putriku75")
+sw = LineClient("Email","paswod")
 sw.log("Auth Token : " + str(sw.authToken))
 channel11 = LineChannel(sw)
 sw.log("Channel Access Token : " + str(channel11.channelAccessToken))
@@ -119,7 +121,7 @@ lineSettings = sw.getSettings()
 Zmid = sw.getProfile().mid
 responsename12 = sw.getProfile().displayName
 
-sx = LineClient("slametputra255@yahoo.com","putriku75")
+sx = LineClient("email","paswod")
 sx.log("Auth Token : " + str(sx.authToken))
 channel12 = LineChannel(sx)
 sx.log("Channel Access Token : " + str(channel12.channelAccessToken))
@@ -128,7 +130,7 @@ lineSettings = sx.getSettings()
 Xmid = sx.getProfile().mid
 responsename13 = sx.getProfile().displayName
 
-js = LineClient("smulyani777@yahoo.com","putriku75")
+js = LineClient("Email","paswod")
 js.log("Auth Token : " + str(js.authToken))
 channel13 = LineChannel(js)
 js.log("Channel Access Token : " + str(channel13.channelAccessToken))
@@ -137,7 +139,7 @@ lineSettings = js.getSettings()
 JSmid = js.getProfile().mid
 responsename14 = js.getProfile().displayName
 
-print("---LOGIN SUCCES---")
+print("---LOGIN SUCCES BOSS---")
 
 poll = LinePoll(cl)
 call = cl
@@ -246,11 +248,11 @@ wait = {
     "selfbot":True,
     "protectantijsOn":True,
     "ghostOn":True,
-    "mention":"Lagi cari celah  yaaa...! mendingan gabung sini 😊",
-    "Respontag":"Apa ci tag-teg kalo penting VC aja langsung",
+    "mention":"Lagi ngintip yee,,, yaaa...! gabung sini 😊",
+    "Respontag":"Apaan tag-teg kalo penting VC aja langsung",
     "welcome":"Selamat datang & semoga betah",
     "comment":"Like like & like ",
-    "message":"Terimakasih sudah add saya\nline.me/ti/p/~gerhanaselatan\n Thaks yoo.!\n SONTOLOYO BOTS",
+    "message":"Terimakasih sudah add saya\n Butuh Selfbot only\n Butuh Selbot dengan asist\n Protect Room/Ivent\n Jaga room/Event\line.me/ti/p/~gerhanaselatan",
     }
 
 read = {
@@ -419,7 +421,7 @@ def help():
     key = Setmain["keyCommand"]
     key = key.title()
     helpMessage = "▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬\n" + \
-                  "╔══[ MENU BOTS ]\n"+\
+                  "╔══[ MENU SONTOLOYO BOTS ]\n"+\
                   "║☯➸ " + key + "Me\n" + \
                   "║☯➸ " + key + "Mid「@」\n" + \
                   "║☯➸ " + key + "Info「@」\n" + \
@@ -542,16 +544,16 @@ def help():
                   "║☯➸ " + key + "Listbot\n" + \
                   "║☯➸ " + key + "Listadmin\n" + \
                   "║☯➸ " + key + "Listprotect\n" + \
-                  "╚══[     SONTOLOYO BOTS      ]\n" + \
+                  "╚══[     _Bots Sontoloyo      ]\n" + \
                   "▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬\n" + \
-                  "\nKetik「 Refresh 」jika sudah Slesai anu...\n"
+                  "\nKetik「 Refresh 」jika sudah habis anu n anu...\n"
     return helpMessage
 
 def helpbot():
     key = Setmain["keyCommand"]
     key = key.title()
     helpMessage1 = "▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬\n" + \
-                  "╔══[ SONTO__LOYO ]\n"+\
+                  "╔══[ MENU__BOTS ]\n"+\
                   "║☯➸ " + key + "Blc\n" + \
                   "║☯➸ " + key + "Ban:on\n" + \
                   "║☯➸ " + key + "Unban:on\n" + \
@@ -581,9 +583,9 @@ def helpbot():
                   "║☯➸ " + key + "Myname:「Nama」\n" + \
                   "║☯➸ " + key + "Gift:「Mid korban」「Jumlah」\n" + \
                   "║☯➸ " + key + "Spam:「Mid korban」「Jumlah」\n" + \
-                  "╚══[     SONTOLOYO_BOTS_SADIS      ]\n" + \
+                  "╚══[     _Bots sontoloyo      ]\n" + \
                   "▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬\n" + \
-                  "\nKetik「 Refresh 」jika sudah slesai anu...\n"
+                  "\nKetik「 Refresh 」jika sudah anu n anu...\n"
     return helpMessage1
 
 def bot(op):
@@ -1971,7 +1973,7 @@ def bot(op):
                             if msg._from in admin:
                                 tz = pytz.timezone("Asia/Jakarta")
                                 timeNow = datetime.now(tz=tz)
-                                md = "❧ĐSONTO_LOYO_BOTS\n"
+                                md = "❧ĐSONTOLOYO BOTS\n"
                                 if wait["sticker"] == True: md+="❧Sticker「ON」\n"
                                 else: md+="❧Sticker「OFF」\n"
                                 if wait["contact"] == True: md+="❧Contact「ON」\n"
@@ -2008,7 +2010,7 @@ def bot(op):
 
                         elif cmd == "creator" or text.lower() == 'creator':
                             if msg._from in admin:
-                                cl.sendText(msg.to,"Creator ◄━━◈⟦Bank-Ger⟧◈━━►") 
+                                cl.sendText(msg.to,"Creator ◄━━◈⟦Gerhanaselatan⟧◈━━►") 
                                 ma = ""
                                 for i in creator:
                                     ma = cl.getContact(i)
@@ -2159,7 +2161,7 @@ def bot(op):
                         elif cmd == "restart":
                           if wait["selfbot"] == True:
                             if msg._from in admin:
-                               cl.sendMessage(msg.to, "Tunggu sebentar boss...")
+                               cl.sendMessage(msg.to, "Tunggu sebentar...")
                                Setmain["restartPoint"] = msg.to
                                restartBot()
                                cl.sendMessage(msg.to, "Silahkan gunakan seperti semula...")
@@ -3365,7 +3367,7 @@ def bot(op):
                           if wait["selfbot"] == True:
                             if msg._from in admin:
                                start = time.time()
-                               cl.sendMessage(msg.to, "progress.....")
+                               cl.sendMessage(msg.to, "ngebut bozzz...")
                                elapsed_time = time.time() - start
                                cl.sendMessage(msg.to, "{} detik".format(str(elapsed_time)))
 
